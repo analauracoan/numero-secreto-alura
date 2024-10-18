@@ -2,8 +2,6 @@
 
 Este é um projeto em JavaScript que permite ao usuário adivinhar um número secreto usando reconhecimento de voz. O projeto foi desenvolvido com a ajuda da plataforma Alura.
 
-<div class="tenor-gif-embed" data-postid="15788802" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/whats-the-number-number-please-digits-give-me-the-number-whats-my-number-gif-15788802">Whats The Number Number Please GIF</a>from <a href="https://tenor.com/search/whats+the+number-gifs">Whats The Number GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ## Funcionalidades
 
 - O número secreto é gerado aleatoriamente.
